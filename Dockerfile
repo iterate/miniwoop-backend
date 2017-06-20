@@ -30,6 +30,6 @@ WORKDIR /rust/app
 ADD . /rust/app
 RUN cargo build --release
 
-CMD ./target/release/urlshortener
+CMD ./target/release/miniwoop-backend
 
 EXPOSE 5000

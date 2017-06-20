@@ -1,5 +1,5 @@
 [package]
-name = "backend"
+name = "miniwoop-backend"
 version = "0.1.0"
 authors = ["Sindre Johansen <sindreij@gmail.com>"]
 
