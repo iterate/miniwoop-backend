@@ -1,0 +1,13 @@
+[package]
+name = "backend"
+version = "0.1.0"
+authors = ["Sindre Johansen <sindreij@gmail.com>"]
+
+[dependencies]
+hyper = "0.11.0"
+futures = "0.1.14"
+pretty_env_logger = "0.1.1"
+serde = "1.0"
+serde_derive = "1.0"
+serde_json = "1.0"
+unicase = "2.0.0"
